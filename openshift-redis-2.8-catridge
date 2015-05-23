@@ -1,7 +1,7 @@
 Name: redis
 Cartridge-Short-Name: REDIS
 Display-Name: Redis
-Version: '2.8'
+Version: '2.8.20'
 Website: https://github.com/chifeo/OpenShift-Redis-2.8-Catridge
 Cartridge-Version: 0.1.0
 Cartridge-Vendor: smarterclayton
@@ -10,7 +10,7 @@ Categories:
 - database
 - embedded
 Provides:
-- redis-2.8
+- redis-2.8.20
 - redis
 Scaling:
   Min: 1
